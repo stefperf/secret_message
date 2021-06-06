@@ -2,3 +2,224 @@ Deciphering YIRTHA...
 --- Start of list of possible words ---
 EUREKA
 --- End of list of possible words ---
+
+
+--- STATS ON GROUPS OF TOPOLOGICALLY EQUIVALENT ENGLISH N-GRAMS ---
+
+Found 102462 / 172820 topologically unique English n-grams, i.e. 59.29% of all English n-grams.
+The first such word is: ['AB']
+
+Found 11385 groups of 2 topologically equivalent English n-grams, for a total of 22770 / 172820 n-grams, i.e. 13.18% of all English n-grams.
+The first such group is: ['AA', 'AR']
+
+Found 3657 groups of 3 topologically equivalent English n-grams, for a total of 10971 / 172820 n-grams, i.e. 6.35% of all English n-grams.
+The first such group is: ['ED', 'TO', 'YO']
+
+Found 1636 groups of 4 topologically equivalent English n-grams, for a total of 6544 / 172820 n-grams, i.e. 3.79% of all English n-grams.
+The first such group is: ['AE', 'AT', 'AY', 'RE']
+
+Found 866 groups of 5 topologically equivalent English n-grams, for a total of 4330 / 172820 n-grams, i.e. 2.51% of all English n-grams.
+The first such group is: ['EL', 'EM', 'EN', 'ES', 'TI']
+
+Found 577 groups of 6 topologically equivalent English n-grams, for a total of 3462 / 172820 n-grams, i.e. 2.00% of all English n-grams.
+The first such group is: ['AGO', 'AID', 'AND', 'AVO', 'AZO', 'RID']
+
+Found 399 groups of 7 topologically equivalent English n-grams, for a total of 2793 / 172820 n-grams, i.e. 1.62% of all English n-grams.
+The first such group is: ['AG', 'AI', 'AL', 'AM', 'AN', 'AS', 'AW']
+
+Found 262 groups of 8 topologically equivalent English n-grams, for a total of 2096 / 172820 n-grams, i.e. 1.21% of all English n-grams.
+The first such group is: ['GO', 'ID', 'JO', 'LO', 'MO', 'NO', 'SO', 'WO']
+
+Found 213 groups of 9 topologically equivalent English n-grams, for a total of 1917 / 172820 n-grams, i.e. 1.11% of all English n-grams.
+The first such group is: ['AFF', 'AFT', 'ATE', 'ATT', 'AYE', 'REE', 'REF', 'RET', 'RYE']
+
+Found 137 groups of 10 topologically equivalent English n-grams, for a total of 1370 / 172820 n-grams, i.e. 0.79% of all English n-grams.
+The first such group is: ['CUP', 'GIP', 'IMP', 'LIP', 'NIP', 'SIP', 'SUP', 'SUQ', 'UMP', 'ZIP']
+
+Found 117 groups of 11 topologically equivalent English n-grams, for a total of 1287 / 172820 n-grams, i.e. 0.74% of all English n-grams.
+The first such group is: ['IN', 'IS', 'LI', 'MI', 'MM', 'MU', 'NU', 'SI', 'UM', 'UN', 'US']
+
+Found 97 groups of 12 topologically equivalent English n-grams, for a total of 1164 / 172820 n-grams, i.e. 0.67% of all English n-grams.
+The first such group is: ['DIG', 'DIM', 'DIN', 'DIS', 'DUG', 'DUI', 'DUN', 'OIL', 'OMS', 'ONS', 'OWL', 'OWN']
+
+Found 71 groups of 13 topologically equivalent English n-grams, for a total of 923 / 172820 n-grams, i.e. 0.53% of all English n-grams.
+The first such group is: ['COD', 'COO', 'GOD', 'GOO', 'LOO', 'MOD', 'MOO', 'NOD', 'NOO', 'SOD', 'UDO', 'WOO', 'ZOO']
+
+Found 39 groups of 14 topologically equivalent English n-grams, for a total of 546 / 172820 n-grams, i.e. 0.32% of all English n-grams.
+The first such group is: ['ACE', 'ACT', 'AGE', 'AIT', 'ALE', 'ALT', 'ANE', 'ANT', 'ANY', 'AVE', 'AWE', 'RIF', 'RUE', 'RUT']
+
+Found 42 groups of 15 topologically equivalent English n-grams, for a total of 630 / 172820 n-grams, i.e. 0.36% of all English n-grams.
+The first such group is: ['COT', 'COY', 'GOT', 'GOY', 'JOE', 'JOT', 'JOY', 'LOT', 'MOT', 'NOT', 'SOT', 'SOY', 'VOE', 'WOE', 'WOT']
+
+Found 45 groups of 16 topologically equivalent English n-grams, for a total of 720 / 172820 n-grams, i.e. 0.42% of all English n-grams.
+The first such group is: ['CAID', 'CALO', 'CRUD', 'GAUD', 'GRID', 'IRID', 'LAID', 'LAND', 'LAUD', 'MAID', 'MANO', 'MAUD', 'SAGO', 'SAID', 'SAND', 'WAND']
+
+Found 37 groups of 17 topologically equivalent English n-grams, for a total of 629 / 172820 n-grams, i.e. 0.36% of all English n-grams.
+The first such group is: ['EAU', 'ERG', 'ERN', 'ERS', 'FAG', 'FAN', 'FAS', 'TAG', 'TAJ', 'TAM', 'TAN', 'TAS', 'TAU', 'TAV', 'TAW', 'YAM', 'YAW']
+
+Found 31 groups of 18 topologically equivalent English n-grams, for a total of 558 / 172820 n-grams, i.e. 0.32% of all English n-grams.
+The first such group is: ['AIL', 'AIM', 'AIN', 'AIS', 'ALL', 'ALS', 'AMI', 'AMU', 'ANI', 'ASS', 'AWL', 'AWN', 'RIG', 'RIM', 'RIN', 'RUG', 'RUM', 'RUN']
+
+Found 25 groups of 19 topologically equivalent English n-grams, for a total of 475 / 172820 n-grams, i.e. 0.27% of all English n-grams.
+The first such group is: ['CADI', 'CADS', 'CROC', 'CROW', 'GADI', 'GADS', 'GAOL', 'GROG', 'GROW', 'IRON', 'LADS', 'MADS', 'NAOI', 'NAOS', 'SADI', 'URDS', 'VROW', 'WADI', 'WADS']
+
+Found 17 groups of 20 topologically equivalent English n-grams, for a total of 340 / 172820 n-grams, i.e. 0.20% of all English n-grams.
+The first such group is: ['CACA', 'CASA', 'GAGA', 'GALA', 'GAMA', 'GAUR', 'JAVA', 'LAIR', 'LAMA', 'LAVA', 'MAIR', 'MAMA', 'MANA', 'NANA', 'SAGA', 'URSA', 'VAIR', 'VASA', 'WAIR', 'WAUR']
+
+Found 19 groups of 21 topologically equivalent English n-grams, for a total of 399 / 172820 n-grams, i.e. 0.23% of all English n-grams.
+The first such group is: ['ACES', 'ACTS', 'ACYL', 'AGES', 'AITS', 'ALEC', 'ALES', 'ALTS', 'AMEN', 'AMYL', 'ANES', 'ANEW', 'ANTI', 'ANTS', 'AVES', 'AWES', 'RIEL', 'RIFS', 'RITZ', 'RUES', 'RUTS']
+
+Found 11 groups of 22 topologically equivalent English n-grams, for a total of 242 / 172820 n-grams, i.e. 0.14% of all English n-grams.
+The first such group is: ['CUE', 'CUT', 'GIE', 'GIT', 'GUT', 'GUY', 'ICE', 'ICY', 'IVY', 'JUT', 'LIE', 'LIT', 'MUT', 'NIT', 'NUT', 'SIT', 'SLY', 'SUE', 'USE', 'VIE', 'WIT', 'ZIT']
+
+Found 18 groups of 23 topologically equivalent English n-grams, for a total of 414 / 172820 n-grams, i.e. 0.24% of all English n-grams.
+The first such group is: ['CAT', 'CAY', 'CRY', 'GAE', 'GAT', 'GAY', 'IRE', 'JAY', 'LAT', 'LAY', 'MAE', 'MAT', 'MAY', 'NAE', 'NAY', 'SAE', 'SAT', 'SAY', 'VAT', 'WAE', 'WAT', 'WAY', 'WRY']
+
+Found 10 groups of 24 topologically equivalent English n-grams, for a total of 240 / 172820 n-grams, i.e. 0.14% of all English n-grams.
+The first such group is: ['CIRE', 'CLAY', 'CURE', 'CURF', 'CURT', 'GIRT', 'GNAT', 'JURY', 'LIRE', 'LURE', 'MIRE', 'MIRY', 'MURE', 'SCAT', 'SCRY', 'SIRE', 'SLAT', 'SLAY', 'SURE', 'SURF', 'SWAT', 'SWAY', 'WIRE', 'WIRY']
+
+Found 13 groups of 25 topologically equivalent English n-grams, for a total of 325 / 172820 n-grams, i.e. 0.19% of all English n-grams.
+The first such group is: ['CATS', 'CAYS', 'CREW', 'GAEN', 'GAES', 'GATS', 'GAYS', 'GREW', 'IRES', 'JAYS', 'LATI', 'LATS', 'LAYS', 'MAES', 'MATS', 'MAYS', 'NAYS', 'SATI', 'SAYS', 'VATS', 'VATU', 'WAES', 'WATS', 'WAYS', 'WREN']
+
+Found 10 groups of 26 topologically equivalent English n-grams, for a total of 260 / 172820 n-grams, i.e. 0.15% of all English n-grams.
+The first such group is: ['ECU', 'EGG', 'ELL', 'ELM', 'ELS', 'EMS', 'EMU', 'ENG', 'ENS', 'ESS', 'FIG', 'FIL', 'FIN', 'FIZ', 'FLU', 'FUG', 'FUN', 'TIC', 'TIL', 'TIN', 'TIS', 'TUG', 'TUI', 'TUN', 'YIN', 'YUM']
+
+Found 11 groups of 27 topologically equivalent English n-grams, for a total of 297 / 172820 n-grams, i.e. 0.17% of all English n-grams.
+The first such group is: ['CODS', 'COOL', 'COON', 'COOS', 'GODS', 'GOON', 'GOOS', 'IDOL', 'LOOM', 'LOON', 'LOOS', 'MODI', 'MODS', 'MOOL', 'MOON', 'MOOS', 'NODI', 'NODS', 'NOON', 'SODS', 'SOON', 'UDOS', 'WOOL', 'WOOS', 'ZOOM', 'ZOON', 'ZOOS']
+
+Found 7 groups of 28 topologically equivalent English n-grams, for a total of 196 / 172820 n-grams, i.e. 0.11% of all English n-grams.
+The first such group is: ['CAGER', 'CANER', 'CAVER', 'CRIER', 'GAGER', 'GALEA', 'GAMER', 'GAZER', 'JAGER', 'LACER', 'LAGER', 'LAMER', 'LASER', 'LAVER', 'MACER', 'MANTA', 'MASER', 'MAZER', 'NAMER', 'SAGER', 'SANER', 'SAVER', 'SAWER', 'URGER', 'WAGER', 'WALER', 'WAVER', 'WRIER']
+
+Found 8 groups of 29 topologically equivalent English n-grams, for a total of 232 / 172820 n-grams, i.e. 0.13% of all English n-grams.
+The first such group is: ['CEES', 'GEES', 'GEEZ', 'GETS', 'ITEM', 'JEES', 'JEEZ', 'JETS', 'LEES', 'LETS', 'LEYS', 'LYES', 'NEEM', 'NETS', 'SEEL', 'SEEM', 'SEEN', 'SEES', 'SETS', 'STEM', 'STEW', 'VEES', 'VETS', 'WEEL', 'WEEN', 'WEES', 'WETS', 'WYES', 'ZEES']
+
+Found 10 groups of 30 topologically equivalent English n-grams, for a total of 300 / 172820 n-grams, i.e. 0.17% of all English n-grams.
+The first such group is: ['CEL', 'GEL', 'GEM', 'GEN', 'GYM', 'IFS', 'ITS', 'JEU', 'JEW', 'LEG', 'LEI', 'LEU', 'LEV', 'LEZ', 'MEL', 'MEM', 'MEN', 'MEW', 'NEW', 'SEC', 'SEG', 'SEI', 'SEL', 'SEN', 'SEW', 'SYN', 'UTS', 'VEG', 'WEN', 'WYN']
+
+Found 6 groups of 31 topologically equivalent English n-grams, for a total of 186 / 172820 n-grams, i.e. 0.11% of all English n-grams.
+The first such group is: ['CITE', 'CITY', 'CLEF', 'CUFF', 'CUTE', 'GIFT', 'GLEE', 'GLEY', 'GUFF', 'JIFF', 'JUTE', 'LIEF', 'LIFE', 'LIFT', 'LITE', 'LUFF', 'LUTE', 'MIFF', 'MITE', 'MITT', 'MITY', 'MUFF', 'MUTE', 'MUTT', 'NITE', 'SIFT', 'SITE', 'SNYE', 'SUET', 'WIFE', 'WITE']
+
+Found 3 groups of 32 topologically equivalent English n-grams, for a total of 96 / 172820 n-grams, i.e. 0.06% of all English n-grams.
+The first such group is: ['CEASES', 'GERMEN', 'LEASES', 'LEASTS', 'LEAVEN', 'LEAVES', 'LYASES', 'MERGES', 'MERITS', 'MERLES', 'MERMEN', 'MYASES', 'NERVES', 'SEAMEN', 'SERGES', 'SERIES', 'SERIFS', 'SERVES', 'STAGES', 'STALES', 'STAMEN', 'STANES', 'STASES', 'STAVES', 'STRUTS', 'VERGES', 'VERMES', 'VERSES', 'VERSTS', 'VERVES', 'WEASEL', 'WEAVES']
+
+Found 4 groups of 33 topologically equivalent English n-grams, for a total of 132 / 172820 n-grams, i.e. 0.08% of all English n-grams.
+The first such group is: ['COG', 'COL', 'CON', 'COS', 'COW', 'COZ', 'IDS', 'ION', 'JOG', 'JOW', 'LOG', 'LOW', 'MOC', 'MOG', 'MOL', 'MOM', 'MON', 'MOS', 'MOW', 'NOG', 'NOM', 'NOS', 'NOW', 'SOL', 'SON', 'SOS', 'SOU', 'SOW', 'VOW', 'WOG', 'WON', 'WOS', 'WOW']
+
+Found 5 groups of 34 topologically equivalent English n-grams, for a total of 170 / 172820 n-grams, i.e. 0.10% of all English n-grams.
+The first such group is: ['CLAST', 'CLAVE', 'CURIE', 'CURLY', 'CURSE', 'CURST', 'CURVE', 'CURVY', 'GIANT', 'GIRLY', 'GLACE', 'GLAZE', 'GLAZY', 'GURGE', 'IMAGE', 'INANE', 'LIANE', 'NURSE', 'SCALE', 'SCALY', 'SCANT', 'SLANT', 'SLAVE', 'SMALT', 'SMAZE', 'SUAVE', 'SURGE', 'SURGY', 'SURLY', 'SWAGE', 'SWALE', 'SWAMY', 'USAGE', 'WURST']
+
+Found 4 groups of 35 topologically equivalent English n-grams, for a total of 140 / 172820 n-grams, i.e. 0.08% of all English n-grams.
+The first such group is: ['CLEW', 'CUES', 'CUTS', 'GIEN', 'GIES', 'GITS', 'GLEG', 'GLEN', 'GUTS', 'GUYS', 'ICES', 'INTI', 'JUTS', 'LIEN', 'LIES', 'LIEU', 'LITS', 'LITU', 'LUES', 'LUTZ', 'LWEI', 'MIEN', 'MUTS', 'NITS', 'NUTS', 'SITS', 'SLEW', 'SMEW', 'SUES', 'USES', 'VIES', 'VIEW', 'WITS', 'ZITI', 'ZITS']
+
+Found 5 groups of 36 topologically equivalent English n-grams, for a total of 180 / 172820 n-grams, i.e. 0.10% of all English n-grams.
+The first such group is: ['CLAG', 'CLAM', 'CLAN', 'CLAW', 'CURL', 'CURN', 'CURS', 'GIRL', 'GIRN', 'GNAW', 'GUAN', 'GURU', 'IMAM', 'LIRI', 'LUAU', 'MIRI', 'MIRS', 'NURL', 'SCAG', 'SCAM', 'SCAN', 'SIAL', 'SIRS', 'SLAG', 'SLAM', 'SLAW', 'SNAG', 'SNAW', 'SWAG', 'SWAM', 'SWAN', 'ULAN', 'UNAI', 'UNAU', 'VIAL', 'VIRL']
+
+Found 1 group of 37 topologically equivalent English n-grams, for a total of 37 / 172820 n-grams, i.e. 0.02% of all English n-grams.
+The group is: ['CELT', 'CENT', 'CYME', 'CYST', 'GELT', 'GENE', 'GENT', 'GEST', 'GYVE', 'JEST', 'LENT', 'LEST', 'LEVY', 'LYSE', 'MELT', 'MEZE', 'NEIF', 'NENE', 'NEST', 'NEVE', 'NEWT', 'SECT', 'SEIF', 'SELF', 'SEME', 'SENE', 'SENT', 'SYCE', 'SYNE', 'VENT', 'VEST', 'WELT', 'WENT', 'WEST', 'WYLE', 'ZEST', 'ZYME']
+
+Found 2 groups of 38 topologically equivalent English n-grams, for a total of 76 / 172820 n-grams, i.e. 0.04% of all English n-grams.
+The first such group is: ['CUSK', 'GINK', 'GUCK', 'GUNK', 'GUSH', 'INCH', 'JINK', 'JUNK', 'LICH', 'LICK', 'LINK', 'LUCK', 'LUNK', 'LUSH', 'MICK', 'MILK', 'MINK', 'MUCH', 'MUCK', 'MUSH', 'MUSK', 'NICK', 'NIGH', 'SICK', 'SIGH', 'SILK', 'SINH', 'SINK', 'SUCH', 'SUCK', 'SUGH', 'SULK', 'SUNK', 'VUGH', 'WICH', 'WICK', 'WINK', 'WISH']
+
+Found 3 groups of 39 topologically equivalent English n-grams, for a total of 117 / 172820 n-grams, i.e. 0.07% of all English n-grams.
+The first such group is: ['CELTS', 'CENTS', 'CESTI', 'CYMES', 'CYSTS', 'GELTS', 'GENES', 'GENTS', 'GESTS', 'GYVES', 'JESTS', 'JEWEL', 'LEGES', 'LENES', 'LEVEL', 'LYSES', 'MELTS', 'MEZES', 'NEIFS', 'NESTS', 'NEVES', 'NEWEL', 'NEWTS', 'SECTS', 'SEIFS', 'SELFS', 'SEMEN', 'SEMES', 'SENTI', 'SEVEN', 'STIES', 'SYCES', 'VENTS', 'VESTS', 'WELTS', 'WESTS', 'WYLES', 'ZESTS', 'ZYMES']
+
+Found 3 groups of 40 topologically equivalent English n-grams, for a total of 120 / 172820 n-grams, i.e. 0.07% of all English n-grams.
+The first such group is: ['ECUS', 'EGGS', 'EGIS', 'ELLS', 'ELMS', 'EMIC', 'EMUS', 'ENGS', 'EVIL', 'FIGS', 'FILL', 'FILM', 'FILS', 'FINS', 'FISC', 'FIZZ', 'FLIC', 'FLUS', 'FUCI', 'FUGS', 'FUGU', 'FUJI', 'FULL', 'FUNS', 'FUSS', 'FUZZ', 'TICS', 'TILL', 'TILS', 'TING', 'TINS', 'TUGS', 'TUIS', 'TUNG', 'TUNS', 'TWIG', 'TWIN', 'YILL', 'YINS', 'YWIS']
+
+Found 3 groups of 41 topologically equivalent English n-grams, for a total of 123 / 172820 n-grams, i.e. 0.07% of all English n-grams.
+The first such group is: ['CENSE', 'CYCLE', 'GEMMY', 'GENIE', 'JELLY', 'JEMMY', 'JENNY', 'JESSE', 'LEGGY', 'LEGIT', 'LENSE', 'LEZZY', 'MEINY', 'MENSE', 'MESNE', 'MESSY', 'NEIST', 'NELLY', 'NEUME', 'NEWIE', 'NEWLY', 'NEWSY', 'SEGUE', 'SEINE', 'SEISE', 'SEIZE', 'SELLE', 'SENSE', 'STILE', 'STILT', 'STIME', 'STIMY', 'STINT', 'STUNT', 'UTILE', 'VEGIE', 'VEINY', 'VENGE', 'VENUE', 'WELLY', 'WENNY']
+
+Found 3 groups of 42 topologically equivalent English n-grams, for a total of 126 / 172820 n-grams, i.e. 0.07% of all English n-grams.
+The first such group is: ['CAIMAN', 'CALLAN', 'CALLAS', 'CANCAN', 'CANNAS', 'CANVAS', 'CASUAL', 'CAUSAL', 'GAGMAN', 'GAMMAS', 'GANJAS', 'GASMAN', 'GAVIAL', 'GRIGRI', 'GRUGRU', 'LAICAL', 'LALLAN', 'LAMIAS', 'LAWMAN', 'MAGIAN', 'MAGMAS', 'MAMMAL', 'MAMMAS', 'MANIAC', 'MANIAS', 'MANNAN', 'MANNAS', 'MANUAL', 'MASSAS', 'NASIAL', 'SAIGAS', 'SALSAS', 'SANGAS', 'SAUNAS', 'URINAL', 'VALVAL', 'VANMAN', 'VASSAL', 'WALLAS', 'WANGAN', 'ZAMIAS', 'ZANZAS']
+
+Found 1 group of 44 topologically equivalent English n-grams, for a total of 44 / 172820 n-grams, i.e. 0.03% of all English n-grams.
+The group is: ['CAM', 'CAN', 'CAW', 'GAG', 'GAL', 'GAM', 'GAN', 'GAS', 'JAG', 'JAM', 'JAW', 'LAC', 'LAG', 'LAM', 'LAS', 'LAV', 'LAW', 'MAC', 'MAG', 'MAN', 'MAS', 'MAW', 'NAG', 'NAM', 'NAN', 'NAW', 'SAC', 'SAG', 'SAL', 'SAU', 'SAW', 'SRI', 'URN', 'VAC', 'VAN', 'VAS', 'VAU', 'VAV', 'VAW', 'WAG', 'WAN', 'WAS', 'WAW', 'ZAG']
+
+Found 1 group of 45 topologically equivalent English n-grams, for a total of 45 / 172820 n-grams, i.e. 0.03% of all English n-grams.
+The group is: ['CECUM', 'CEILS', 'CELLI', 'CELLS', 'CYNIC', 'GENIC', 'GENII', 'GENUS', 'GEUMS', 'JELLS', 'LENIS', 'LEVIN', 'LEWIS', 'LYING', 'LYSIN', 'LYSIS', 'MELIC', 'MELLS', 'MENUS', 'MESIC', 'MEWLS', 'NEGUS', 'NEUMS', 'NEVUS', 'SEGNI', 'SEISM', 'SELLS', 'SEMIS', 'SENGI', 'STILL', 'STING', 'STULL', 'STUMS', 'STUNG', 'STUNS', 'SYLIS', 'SYNCS', 'VEILS', 'VEINS', 'VELUM', 'VENIN', 'VYING', 'WELLS', 'WYNNS', 'ZEINS']
+
+Found 1 group of 47 topologically equivalent English n-grams, for a total of 47 / 172820 n-grams, i.e. 0.03% of all English n-grams.
+The group is: ['CEIL', 'CELL', 'CELS', 'CESS', 'GELS', 'GEMS', 'GENS', 'GENU', 'GEUM', 'GYMS', 'JELL', 'JESS', 'JEWS', 'LEGS', 'LEIS', 'LENS', 'LESS', 'MELL', 'MELS', 'MEMS', 'MENU', 'MESS', 'MEWL', 'MEWS', 'NESS', 'NEUM', 'NEVI', 'NEWS', 'SECS', 'SEGS', 'SEIS', 'SELL', 'SELS', 'SEMI', 'SEWN', 'SEWS', 'STUM', 'STUN', 'SYLI', 'SYNC', 'VEIL', 'VEIN', 'WELL', 'WENS', 'WYNN', 'WYNS', 'ZEIN']
+
+Found 3 groups of 48 topologically equivalent English n-grams, for a total of 144 / 172820 n-grams, i.e. 0.08% of all English n-grams.
+The first such group is: ['CALICES', 'CAMISES', 'CANGUES', 'CANINES', 'CRINGES', 'CRUISES', 'GAGGLES', 'GALLIES', 'GAMINES', 'GANGUES', 'GAUSSES', 'GRILLES', 'GRILSES', 'GRUNGES', 'JAMMIES', 'JANGLES', 'JAUNCES', 'JAZZMEN', 'LACUNES', 'LAGUNES', 'LANGUES', 'LASSIES', 'LAUNCES', 'LAWINES', 'MACULES', 'MAILMEN', 'MALICES', 'MALINES', 'MAMMIES', 'MANGLES', 'MASSIFS', 'MAVISES', 'NANCIES', 'NANNIES', 'NAVVIES', 'SALINES', 'SALLIES', 'SAMISEN', 'SASSIES', 'SAVINES', 'SAVVIES', 'VALINES', 'VALISES', 'WAGGLES', 'WALLIES', 'WALNUTS', 'WAMUSES', 'WANGLES']
+
+Found 1 group of 49 topologically equivalent English n-grams, for a total of 49 / 172820 n-grams, i.e. 0.03% of all English n-grams.
+The group is: ['CLINGER', 'GIGGLER', 'GINNIER', 'GLIMMER', 'GLUMMER', 'GUMMIER', 'GUZZLER', 'JINGLER', 'JUGGLER', 'JUICIER', 'LINGIER', 'MILLIER', 'MINCIER', 'MINGIER', 'MINGLER', 'MINIVER', 'MISUSER', 'MUGGIER', 'MUSSIER', 'MUZZIER', 'MUZZLER', 'NIGGLER', 'NUZZLER', 'SCULLER', 'SCUMMER', 'SCUNNER', 'SILLIER', 'SISSIER', 'SIZZLER', 'SLIMIER', 'SLIMMER', 'SLINGER', 'SLUGGER', 'SLUMMER', 'SMUGGER', 'SNIGGER', 'SNUGGER', 'SUNNIER', 'SWIGGER', 'SWILLER', 'SWIMMER', 'SWINGER', 'UNWISER', 'VUGGIER', 'WIGGIER', 'WIGGLER', 'WINGIER', 'WUSSIER', 'ZINGIER']
+
+Found 1 group of 50 topologically equivalent English n-grams, for a total of 50 / 172820 n-grams, i.e. 0.03% of all English n-grams.
+The group is: ['COIF', 'COLE', 'COLT', 'COLY', 'COME', 'CONE', 'CONY', 'COST', 'COSY', 'COVE', 'COWY', 'COZY', 'GOLF', 'GONE', 'GOUT', 'IDLE', 'IDLY', 'JOLE', 'JOLT', 'LOGE', 'LOGY', 'LONE', 'LOSE', 'LOST', 'LOUT', 'LOVE', 'LOWE', 'MOLE', 'MOLT', 'MOLY', 'MOME', 'MONY', 'MOST', 'MOUE', 'MOVE', 'NOME', 'NONE', 'NOSE', 'NOSY', 'NOWT', 'SOLE', 'SOME', 'SONE', 'VOLE', 'VOLT', 'WOLF', 'WONT', 'WOST', 'WOVE', 'ZONE']
+
+Found 2 groups of 51 topologically equivalent English n-grams, for a total of 102 / 172820 n-grams, i.e. 0.06% of all English n-grams.
+The first such group is: ['COIFS', 'COLES', 'COLTS', 'COMES', 'CONES', 'COSEC', 'COSES', 'COSTS', 'COVEN', 'COVES', 'COZEN', 'COZES', 'GOLEM', 'GOLFS', 'GOUTS', 'IDLES', 'JOLES', 'JOLTS', 'JONES', 'LOGES', 'LOSEL', 'LOSES', 'LOUTS', 'LOVES', 'LOWES', 'MOLES', 'MOLTS', 'MOMES', 'MOSTS', 'MOUES', 'MOVES', 'NOMEN', 'NOMES', 'NONES', 'NONYL', 'NOSES', 'NOVEL', 'NOWTS', 'SOLEI', 'SOLES', 'SONES', 'VOCES', 'VOLES', 'VOLTI', 'VOLTS', 'VOWEL', 'WOLFS', 'WOMEN', 'WONTS', 'WOVEN', 'ZONES']
+
+Found 2 groups of 52 topologically equivalent English n-grams, for a total of 104 / 172820 n-grams, i.e. 0.06% of all English n-grams.
+The first such group is: ['COLLY', 'COMMY', 'CONGE', 'COSIE', 'COUNT', 'COZIE', 'GOLLY', 'GONIF', 'GOUGE', 'JOINT', 'JOIST', 'JOLLY', 'JOULE', 'JOUST', 'JOWLY', 'LOGGY', 'LOLLY', 'LONGE', 'LOSSY', 'LOUIE', 'LOUSE', 'LOUSY', 'LOWLY', 'LOWSE', 'MOGGY', 'MOIST', 'MOLLY', 'MOMMY', 'MONIE', 'MOSSY', 'MOULT', 'MOUNT', 'MOUSE', 'MOUSY', 'MOVIE', 'NOILY', 'NOISE', 'NOISY', 'NONCE', 'SOCLE', 'SOGGY', 'SOLVE', 'SONLY', 'SONNY', 'SONSY', 'SOUSE', 'VOGIE', 'VOGUE', 'VOICE', 'VOILE', 'VOMIT', 'ZOWIE']
+
+Found 2 groups of 53 topologically equivalent English n-grams, for a total of 106 / 172820 n-grams, i.e. 0.06% of all English n-grams.
+The first such group is: ['CULLED', 'CULMED', 'CUSSED', 'GIGGED', 'GILLED', 'GINNED', 'GLIMED', 'GUILED', 'GUISED', 'GULLED', 'GUMMED', 'GUNNED', 'ISSUED', 'JIGGED', 'JUGGED', 'JUICED', 'LILIED', 'LIMNED', 'LUGGED', 'LULLED', 'LUNGED', 'MILLED', 'MINCED', 'MISLED', 'MISSED', 'MUGGED', 'MULLED', 'MUMMED', 'MUSSED', 'NILLED', 'NIMMED', 'NULLED', 'SICCED', 'SIGNED', 'SINGED', 'SINNED', 'SLICED', 'SLIMED', 'SMILED', 'SUMMED', 'SUNNED', 'SUSSED', 'SWIVED', 'UNUSED', 'WIGGED', 'WILLED', 'WINCED', 'WINGED', 'WINNED', 'WISSED', 'ZIGGED', 'ZINCED', 'ZINGED']
+
+Found 2 groups of 54 topologically equivalent English n-grams, for a total of 108 / 172820 n-grams, i.e. 0.06% of all English n-grams.
+The first such group is: ['CLAGS', 'CLAIM', 'CLAMS', 'CLANG', 'CLANS', 'CLASS', 'CLAVI', 'CLAWS', 'CURLS', 'CURNS', 'GIRLS', 'GIRNS', 'GLANS', 'GLASS', 'GNAWN', 'GNAWS', 'GUANS', 'GURUS', 'IMAMS', 'IMAUM', 'LIANG', 'LUAUS', 'MIASM', 'MIAUL', 'NURLS', 'SCAGS', 'SCALL', 'SCAMS', 'SCANS', 'SCRIM', 'SCRUM', 'SIALS', 'SLAGS', 'SLAIN', 'SLAMS', 'SLANG', 'SLAWS', 'SMALL', 'SNAGS', 'SNAIL', 'SNAWS', 'SWAGS', 'SWAIL', 'SWAIN', 'SWAMI', 'SWANG', 'SWANS', 'ULANS', 'UNAIS', 'UNAUS', 'UNRIG', 'VIALS', 'VIRLS', 'VIRUS']
+
+Found 1 group of 55 topologically equivalent English n-grams, for a total of 55 / 172820 n-grams, i.e. 0.03% of all English n-grams.
+The group is: ['CIS', 'CUM', 'CWM', 'GIG', 'GIN', 'GNU', 'GUL', 'GUM', 'GUN', 'GUV', 'ILL', 'INN', 'INS', 'ISM', 'JIG', 'JIN', 'JUG', 'JUN', 'JUS', 'LIN', 'LIS', 'LUG', 'LUM', 'LUV', 'MIG', 'MIL', 'MIM', 'MIS', 'MUG', 'MUM', 'MUN', 'MUS', 'NIL', 'NIM', 'NUN', 'NUS', 'SIC', 'SIM', 'SIN', 'SIS', 'SUM', 'SUN', 'ULU', 'UMM', 'UNS', 'VIG', 'VIM', 'VIS', 'VUG', 'WIG', 'WIN', 'WIS', 'WIZ', 'ZIG', 'ZIN']
+
+Found 1 group of 56 topologically equivalent English n-grams, for a total of 56 / 172820 n-grams, i.e. 0.03% of all English n-grams.
+The group is: ['CAGIER', 'CALLER', 'CALMER', 'CANCER', 'CANNER', 'CASITA', 'CAUSER', 'CRISTA', 'GAGGER', 'GAINER', 'GAMIER', 'GAMMER', 'GANGER', 'GASSER', 'GAUGER', 'JAGGER', 'JAILER', 'JAMMER', 'JAZZER', 'LACIER', 'LAGGER', 'LANCER', 'LANNER', 'LAZIER', 'MAILER', 'MAIMER', 'MAMMER', 'MANGER', 'MANNER', 'MAUGER', 'MAULER', 'MAZIER', 'NAGGER', 'NAILER', 'NAIVER', 'NAUSEA', 'SAGGER', 'SAGIER', 'SAILER', 'SALVER', 'SANCTA', 'SANGER', 'SAUCER', 'SAUGER', 'VAGUER', 'VAINER', 'VALUER', 'VALUTA', 'VANNER', 'WAGGER', 'WAILER', 'WAIVER', 'WANIER', 'WANNER', 'WAVIER', 'ZANIER']
+
+Found 1 group of 57 topologically equivalent English n-grams, for a total of 57 / 172820 n-grams, i.e. 0.03% of all English n-grams.
+The group is: ['CAINS', 'CALLS', 'CALMS', 'CASUS', 'CAULS', 'CAVIL', 'GAINS', 'GALLS', 'GAMIC', 'GAMIN', 'GANGS', 'GAUMS', 'GAUSS', 'GRIGS', 'GRILL', 'GRINS', 'IRING', 'JAGGS', 'JAILS', 'LAICS', 'LALLS', 'LAWNS', 'MAGIC', 'MAGUS', 'MAILL', 'MAILS', 'MAIMS', 'MAINS', 'MALIC', 'MALLS', 'MALMS', 'MANIC', 'MANUS', 'MAULS', 'MAVIN', 'MAVIS', 'NAILS', 'NAZIS', 'SAGUM', 'SAILS', 'SAINS', 'SALIC', 'SALMI', 'SASIN', 'SAULS', 'SAVIN', 'VAGUS', 'VAILS', 'VANGS', 'WAILS', 'WAINS', 'WALLS', 'WAMUS', 'WAULS', 'WAWLS', 'WRING', 'WRUNG']
+
+Found 2 groups of 58 topologically equivalent English n-grams, for a total of 116 / 172820 n-grams, i.e. 0.07% of all English n-grams.
+The first such group is: ['COGS', 'COIL', 'COIN', 'COLS', 'CONI', 'CONN', 'CONS', 'COSS', 'COWL', 'COWS', 'GONG', 'GOWN', 'IONS', 'JOGS', 'JOIN', 'JOSS', 'JOWL', 'JOWS', 'LOCI', 'LOGS', 'LOIN', 'LOLL', 'LONG', 'LOSS', 'LOWN', 'LOWS', 'MOCS', 'MOGS', 'MOIL', 'MOLL', 'MOLS', 'MOMI', 'MOMS', 'MONS', 'MOSS', 'MOWN', 'MOWS', 'NOGG', 'NOGS', 'NOIL', 'NOMS', 'NOUN', 'NOUS', 'NOWS', 'SOIL', 'SOLI', 'SOLS', 'SONG', 'SONS', 'SOUL', 'SOUS', 'SOWN', 'SOWS', 'VOWS', 'WOGS', 'WONS', 'WOWS', 'ZOIC']
+
+Found 1 group of 59 topologically equivalent English n-grams, for a total of 59 / 172820 n-grams, i.e. 0.03% of all English n-grams.
+The group is: ['CIVIES', 'CLIMES', 'CLINES', 'CUSSES', 'GIGUES', 'GIMMES', 'GLIMES', 'GLINTS', 'GLUMES', 'GUILES', 'GUILTS', 'GUISES', 'GUNMEN', 'GUNNEL', 'GUNNEN', 'GUNSEL', 'IMINES', 'IMMIES', 'INGLES', 'ISSUES', 'JUICES', 'LILIES', 'LIMITS', 'LISLES', 'LUNGES', 'LUNGYI', 'LUNIES', 'MILIEU', 'MILLES', 'MINCES', 'MISSEL', 'MISSES', 'MIZZEN', 'MULCTS', 'MULLEN', 'MUSSEL', 'MUSSES', 'NUCLEI', 'SIMNEL', 'SINGES', 'SLICES', 'SLIMES', 'SMILES', 'SNIVEL', 'SUINTS', 'SULLEN', 'SUSSES', 'SWIVEL', 'SWIVES', 'UGLIES', 'UNCLES', 'UNGUES', 'UNWITS', 'VISITS', 'WINCES', 'WINZES', 'WISSES', 'WIZZEN', 'WUSSES']
+
+Found 1 group of 60 topologically equivalent English n-grams, for a total of 60 / 172820 n-grams, i.e. 0.03% of all English n-grams.
+The group is: ['CAGING', 'CALCIC', 'CALLUS', 'CANING', 'CASING', 'CASINI', 'CASSIS', 'CAUCUS', 'CAULIS', 'CAVILS', 'CAVING', 'CAWING', 'CRINUM', 'CRISIC', 'CRISIS', 'GAGING', 'GAIJIN', 'GALLIC', 'GALLUS', 'GAMING', 'GAMINS', 'GAZING', 'GRILLS', 'JASMIN', 'JAWING', 'LACING', 'LAMING', 'LASING', 'LAVING', 'LAWING', 'LAZING', 'LAZULI', 'MACING', 'MAGICS', 'MAGNUM', 'MAILLS', 'MALIGN', 'MANICS', 'MAVINS', 'MAWING', 'MAZING', 'NAMING', 'NANISM', 'SAIMIN', 'SALMIS', 'SANING', 'SASINS', 'SAVING', 'SAVINS', 'SAWING', 'URGING', 'VACUUM', 'VALGUS', 'WAGING', 'WALING', 'WAMMUS', 'WANGUN', 'WANING', 'WAVING', 'WRINGS']
+
+Found 1 group of 64 topologically equivalent English n-grams, for a total of 64 / 172820 n-grams, i.e. 0.04% of all English n-grams.
+The group is: ['CINGULUM', 'CIVICISM', 'CLINGING', 'CUNNINGS', 'GIGGLING', 'GINGILIS', 'GINGILLI', 'GINNINGS', 'GLUCINIC', 'GLUCINUM', 'GLUGGING', 'GUGGLING', 'GUNNINGS', 'GUZZLING', 'ILLINIUM', 'ILLUMING', 'ILLUVIUM', 'INCISING', 'INCUSING', 'INSULINS', 'JIGGLING', 'JINGLING', 'JUGGLING', 'JUJUISMS', 'LINGUINI', 'LUMINISM', 'MILLINGS', 'MINGLING', 'MINIMILL', 'MINIMUMS', 'MISCUING', 'MISUSING', 'MIZZLING', 'MUGGINGS', 'MUSCLING', 'MUZZLING', 'NIGGLING', 'NUZZLING', 'SCULLING', 'SCUMMING', 'SILICIUM', 'SINGLING', 'SIZZLING', 'SLIMMING', 'SLINGING', 'SLUGGING', 'SLUICING', 'SLUMGUMS', 'SLUMISMS', 'SLUMMING', 'SNUGGING', 'SUCCINIC', 'SWIGGING', 'SWILLING', 'SWIMMING', 'SWINGING', 'UNGLUING', 'UNLIVING', 'UNSLINGS', 'VINCULUM', 'WIGGINGS', 'WIGGLING', 'WINNINGS', 'ZIZZLING']
+
+Found 1 group of 67 topologically equivalent English n-grams, for a total of 67 / 172820 n-grams, i.e. 0.04% of all English n-grams.
+The group is: ['CILIUM', 'CIVICS', 'CIVISM', 'CLINGS', 'CLINIC', 'CLUING', 'CULLIS', 'CUMINS', 'CUMMIN', 'CUMULI', 'CUSCUS', 'GIVING', 'GLUING', 'ICINGS', 'INNING', 'INULIN', 'ISLING', 'JIVING', 'JUGUMS', 'LIGNIN', 'LIMING', 'LIMNIC', 'LIMULI', 'LINING', 'LININS', 'LINUMS', 'LIVING', 'LUNGIS', 'MILIUM', 'MIMICS', 'MIMING', 'MINIMS', 'MINING', 'MINIUM', 'MISSIS', 'MISSUS', 'MUCINS', 'MUCLUC', 'MULING', 'MUSICS', 'MUSING', 'MUSLIN', 'MUUMUU', 'SCULLS', 'SIGILS', 'SIMLIN', 'SIZING', 'SLINGS', 'SLUING', 'SULCUS', 'SWILLS', 'SWINGS', 'UNCINI', 'UNGUIS', 'UNSUNG', 'VICING', 'VIGILS', 'VILLUS', 'VINING', 'VISCUS', 'VISING', 'VULGUS', 'WILING', 'WINING', 'WISING', 'WIVING', 'ZINCIC']
+
+Found 2 groups of 68 topologically equivalent English n-grams, for a total of 136 / 172820 n-grams, i.e. 0.08% of all English n-grams.
+The first such group is: ['CACTI', 'CAGES', 'CALFS', 'CAMEL', 'CAMES', 'CANES', 'CANTS', 'CASES', 'CASTS', 'CAVES', 'CRIES', 'CRUEL', 'GAGES', 'GAITS', 'GALES', 'GAMES', 'GANEV', 'GASES', 'GASTS', 'GAVEL', 'GAZES', 'GRITS', 'GRUEL', 'GRUES', 'JANES', 'LACES', 'LAMES', 'LANES', 'LASES', 'LASTS', 'LAVES', 'LAZES', 'MACES', 'MAGES', 'MALES', 'MALTS', 'MANES', 'MASTS', 'MAUTS', 'MAVEN', 'MAZES', 'NAIFS', 'NAMES', 'NAVEL', 'NAVES', 'SAGES', 'SALES', 'SALTS', 'SANES', 'SAVES', 'URGES', 'VALES', 'VANES', 'VASES', 'VASTS', 'WAGES', 'WAIFS', 'WAITS', 'WALES', 'WALTZ', 'WAMES', 'WANES', 'WANTS', 'WASTS', 'WAVES', 'WRIES', 'WRITS', 'ZAZEN']
+
+Found 2 groups of 71 topologically equivalent English n-grams, for a total of 142 / 172820 n-grams, i.e. 0.08% of all English n-grams.
+The first such group is: ['CAGE', 'CAGY', 'CALF', 'CAME', 'CANE', 'CANT', 'CASE', 'CAST', 'CAVE', 'CAVY', 'GAGE', 'GAIT', 'GALE', 'GAME', 'GAMY', 'GANE', 'GAST', 'GAVE', 'GAZE', 'GRIT', 'GRUE', 'JANE', 'LACE', 'LACY', 'LAME', 'LANE', 'LASE', 'LAST', 'LAVE', 'LAZE', 'LAZY', 'MACE', 'MAGE', 'MALE', 'MALT', 'MANE', 'MANY', 'MAST', 'MAUT', 'MAZE', 'MAZY', 'NAIF', 'NAME', 'NAVE', 'NAVY', 'SAGE', 'SAGY', 'SALE', 'SALT', 'SAME', 'SANE', 'SAVE', 'URGE', 'VALE', 'VANE', 'VASE', 'VAST', 'WAGE', 'WAIF', 'WAIT', 'WALE', 'WALY', 'WAME', 'WANE', 'WANT', 'WANY', 'WAST', 'WAVE', 'WAVY', 'WRIT', 'ZANY']
+
+Found 1 group of 72 topologically equivalent English n-grams, for a total of 72 / 172820 n-grams, i.e. 0.04% of all English n-grams.
+The group is: ['CALCIUM', 'CALCULI', 'CALLING', 'CALMING', 'CALVING', 'CANNING', 'CASINGS', 'CAUSING', 'CAVINGS', 'CRINUMS', 'CRISSUM', 'GAGGING', 'GAINING', 'GALLING', 'GALLIUM', 'GAMINGS', 'GAMMING', 'GANGING', 'GASSING', 'GAUGING', 'GAUMING', 'GRIMING', 'IRISING', 'JAGGING', 'JAILING', 'JAMMING', 'JASMINS', 'JAZZING', 'LACINGS', 'LAGGING', 'LAICISM', 'LALLING', 'LAMMING', 'LANCING', 'LAWINGS', 'LAZULIS', 'MAGNUMS', 'MAILING', 'MAIMING', 'MALIGNS', 'MALLING', 'MANNING', 'MASSING', 'MAULING', 'NAGGING', 'NAILING', 'NANISMS', 'SACCULI', 'SAGGING', 'SAILING', 'SAIMINS', 'SAINING', 'SALICIN', 'SALVING', 'SASSING', 'SAUCING', 'SAVINGS', 'SAWMILL', 'VACUUMS', 'VAILING', 'VALUING', 'VALVING', 'VANNING', 'WAGGING', 'WAILING', 'WAIVING', 'WALLING', 'WANGUNS', 'WANNING', 'WAULING', 'WAWLING', 'ZAGGING']
+
+Found 1 group of 73 topologically equivalent English n-grams, for a total of 73 / 172820 n-grams, i.e. 0.04% of all English n-grams.
+The group is: ['CISSY', 'CIVIE', 'CIVVY', 'CLIME', 'CLINE', 'CULLY', 'GIGUE', 'GILLY', 'GIMME', 'GINNY', 'GLIME', 'GLINT', 'GLUME', 'GUILE', 'GUILT', 'GUISE', 'GULLY', 'GUMMY', 'GUNNY', 'GUSSY', 'ICILY', 'IMINE', 'INGLE', 'ISSUE', 'JIMMY', 'JUICE', 'JUICY', 'LICIT', 'LIMIT', 'LINGY', 'LISLE', 'LUNGE', 'MILLE', 'MINCE', 'MINCY', 'MINGY', 'MINNY', 'MISSY', 'MUGGY', 'MULCT', 'MUMMY', 'MUSSY', 'MUZZY', 'NINNY', 'SILLY', 'SINCE', 'SINGE', 'SISSY', 'SLICE', 'SLILY', 'SLIME', 'SLIMY', 'SMILE', 'SUINT', 'SULLY', 'SUNNY', 'SWINE', 'SWIVE', 'UNCLE', 'UNCUT', 'UNLIT', 'UNWIT', 'VISIT', 'VUGGY', 'WIGGY', 'WILLY', 'WINCE', 'WINGY', 'WINZE', 'WUSSY', 'ZINCY', 'ZINGY', 'ZIZIT']
+
+Found 1 group of 74 topologically equivalent English n-grams, for a total of 74 / 172820 n-grams, i.e. 0.04% of all English n-grams.
+The group is: ['CALIF', 'CALVE', 'CANNY', 'CANST', 'CAUSE', 'CAVIE', 'CRIME', 'CRUSE', 'CRUST', 'GAILY', 'GALLY', 'GAMMY', 'GAMUT', 'GASSY', 'GAUGE', 'GAULT', 'GAUNT', 'GAUZE', 'GAUZY', 'GAWSY', 'GRIME', 'GRIMY', 'GRIST', 'GRUME', 'GRUNT', 'JAGGY', 'JAMMY', 'JAUNT', 'JAZZY', 'LANCE', 'LAWNY', 'MACLE', 'MAILE', 'MAIST', 'MAIZE', 'MALMY', 'MAMIE', 'MAMMY', 'MANGE', 'MANGY', 'MANLY', 'MANSE', 'MASSE', 'MASSY', 'MAUVE', 'MAVIE', 'NAGGY', 'NAIVE', 'NANCE', 'NANCY', 'NANNY', 'NAVVY', 'SAGGY', 'SAICE', 'SAINT', 'SALLY', 'SALVE', 'SASSY', 'SAUCE', 'SAUCY', 'SAULT', 'SAVVY', 'URINE', 'VAGUE', 'VALSE', 'VALUE', 'VALVE', 'VAULT', 'VAUNT', 'WAIST', 'WAIVE', 'WALLY', 'WANLY', 'WRIST']
+
+Found 1 group of 76 topologically equivalent English n-grams, for a total of 76 / 172820 n-grams, i.e. 0.04% of all English n-grams.
+The group is: ['CILICE', 'CLINGY', 'CLUMSY', 'CUISSE', 'GIGGLE', 'GIGGLY', 'GILLIE', 'GIMMIE', 'GLUILY', 'GLUMLY', 'GUGGLE', 'GUSSIE', 'GUZZLE', 'ICICLE', 'ILLUME', 'IMMUNE', 'INCISE', 'INCULT', 'INCUSE', 'INGULF', 'INSIST', 'INSULT', 'JIGGLE', 'JIGGLY', 'JIMINY', 'JINGLE', 'JINGLY', 'JUGGLE', 'JUNGLE', 'JUNGLY', 'LIGULE', 'LUGGIE', 'LUNULE', 'MIGGLE', 'MINGLE', 'MISCUE', 'MISCUT', 'MISLIE', 'MISLIT', 'MISUSE', 'MIZZLE', 'MIZZLY', 'MUSCLE', 'MUSCLY', 'MUZZLE', 'NIGGLE', 'NUNCLE', 'NUZZLE', 'SCUMMY', 'SCUZZY', 'SIMILE', 'SINGLE', 'SINGLY', 'SIZZLE', 'SLIMLY', 'SLIMSY', 'SLUICE', 'SLUICY', 'SLUMMY', 'SMUGLY', 'SNUGLY', 'SUMMIT', 'SUNLIT', 'SWIMMY', 'SWINGE', 'SWINGY', 'UGLILY', 'UNGLUE', 'UNJUST', 'UNLIVE', 'UNWISE', 'VISIVE', 'WIGGLE', 'WIGGLY', 'WILILY', 'ZIZZLE']
+
+Found 1 group of 78 topologically equivalent English n-grams, for a total of 78 / 172820 n-grams, i.e. 0.05% of all English n-grams.
+The group is: ['CINE', 'CIST', 'CLUE', 'CUIF', 'CULT', 'CUNT', 'GILT', 'GIST', 'GIVE', 'GLUE', 'GLUT', 'GULF', 'GUST', 'ILLY', 'IMMY', 'INLY', 'ISLE', 'JILT', 'JIVE', 'JUST', 'LICE', 'LILT', 'LILY', 'LIME', 'LIMY', 'LINE', 'LINT', 'LINY', 'LIST', 'LIVE', 'LUCE', 'LUGE', 'LUNE', 'LUNT', 'LUNY', 'LUST', 'MICE', 'MILE', 'MILT', 'MIME', 'MINE', 'MINT', 'MISE', 'MIST', 'MULE', 'MUSE', 'MUST', 'NICE', 'NINE', 'SCUT', 'SICE', 'SILT', 'SINE', 'SIZE', 'SIZY', 'SLIT', 'SLUE', 'SLUT', 'SMIT', 'SMUT', 'SNIT', 'SUIT', 'UGLY', 'UNIT', 'VICE', 'VILE', 'VINE', 'VINY', 'VISE', 'VIVE', 'WILE', 'WILT', 'WILY', 'WINE', 'WINY', 'WISE', 'WIST', 'WIVE']
+
+Found 1 group of 83 topologically equivalent English n-grams, for a total of 83 / 172820 n-grams, i.e. 0.05% of all English n-grams.
+The group is: ['CINES', 'CISTS', 'CLUES', 'CUIFS', 'CULTI', 'CULTS', 'CUNTS', 'CUSEC', 'GILTS', 'GIMEL', 'GISTS', 'GIVEN', 'GIVES', 'GLITZ', 'GLUES', 'GLUTS', 'GULES', 'GULFS', 'GUSTS', 'ISLES', 'ISSEI', 'IVIES', 'JILTS', 'JIVES', 'JUSTS', 'LILTS', 'LIMEN', 'LIMES', 'LINEN', 'LINES', 'LINTS', 'LISTS', 'LIVEN', 'LIVES', 'LUCES', 'LUGES', 'LUMEN', 'LUNES', 'LUNTS', 'LUSTS', 'MILES', 'MILTS', 'MIMES', 'MINES', 'MINTS', 'MISES', 'MISTS', 'MIZEN', 'MULES', 'MUSES', 'MUSTS', 'NINES', 'NISEI', 'NUMEN', 'SCUTS', 'SICES', 'SILTS', 'SINES', 'SINEW', 'SISES', 'SIZES', 'SLITS', 'SLUES', 'SLUTS', 'SMUTS', 'SNITS', 'SUITS', 'UNITS', 'UNMEW', 'UNSEW', 'VICES', 'VIMEN', 'VINES', 'VINYL', 'VISES', 'WILES', 'WILTS', 'WINES', 'WISES', 'WISTS', 'WIVES', 'WIZEN', 'WIZES']
+
+Found 1 group of 84 topologically equivalent English n-grams, for a total of 84 / 172820 n-grams, i.e. 0.05% of all English n-grams.
+The group is: ['CIVIC', 'CIVIL', 'CLING', 'CLUNG', 'CUING', 'CULLS', 'CULMS', 'CUMIN', 'GILLS', 'GLIMS', 'GLUGS', 'GULLS', 'ICING', 'IGLUS', 'ILIUM', 'INCUS', 'JILLS', 'JINNI', 'JINNS', 'JISMS', 'JUGUM', 'JUJUS', 'LIMNS', 'LINGS', 'LININ', 'LINNS', 'LINUM', 'LULLS', 'LULUS', 'LUNGI', 'LUNGS', 'LUSUS', 'MIGGS', 'MILLS', 'MIMIC', 'MINIM', 'MINIS', 'MINUS', 'MUCIN', 'MUCUS', 'MUGGS', 'MULLS', 'MUMMS', 'MUMUS', 'MUNIS', 'MUSIC', 'NILLS', 'NISUS', 'NULLS', 'SCULL', 'SCUMS', 'SIGIL', 'SIGNS', 'SILLS', 'SINGS', 'SINUS', 'SLIMS', 'SLING', 'SLUGS', 'SLUMS', 'SLUNG', 'SNUGS', 'SUING', 'SULCI', 'SULUS', 'SUNNS', 'SWIGS', 'SWILL', 'SWIMS', 'SWING', 'SWISS', 'SWUNG', 'UNCUS', 'USING', 'VIGIL', 'VILLI', 'VILLS', 'VINIC', 'VUGGS', 'WILLS', 'WINGS', 'ZILLS', 'ZINCS', 'ZINGS']
+
+Found 1 group of 85 topologically equivalent English n-grams, for a total of 85 / 172820 n-grams, i.e. 0.05% of all English n-grams.
+The group is: ['CIVISMS', 'CLINICS', 'CULLING', 'CULMING', 'CUMMINS', 'CUMULUS', 'CUNNING', 'CUSSING', 'GIGGING', 'GILLING', 'GINGILI', 'GINNING', 'GLIMING', 'GUILING', 'GUISING', 'GULLING', 'GUMMING', 'GUNNING', 'INCIVIL', 'INNINGS', 'INSULIN', 'INULINS', 'ISSUING', 'JIGGING', 'JUGGING', 'JUGULUM', 'JUICING', 'JUJUISM', 'LIGNINS', 'LIMNING', 'LIMULUS', 'LININGS', 'LIVINGS', 'LUGGING', 'LULLING', 'LUNGING', 'MILLING', 'MINCING', 'MINIMUM', 'MININGS', 'MINIUMS', 'MISSING', 'MUCLUCS', 'MUGGING', 'MUGGINS', 'MULLING', 'MUMMING', 'MUSINGS', 'MUSLINS', 'MUSSING', 'MUUMUUS', 'NILLING', 'NIMMING', 'NULLING', 'SICCING', 'SIGNING', 'SILICIC', 'SILVICS', 'SIMLINS', 'SINGING', 'SINNING', 'SIZINGS', 'SLICING', 'SLIMING', 'SLUMGUM', 'SLUMISM', 'SMILING', 'SUCCUSS', 'SUMMING', 'SUNNING', 'SUSSING', 'SWIVING', 'UNCINUS', 'UNCIVIL', 'UNSLING', 'UNSLUNG', 'WIGGING', 'WILLING', 'WINCING', 'WINGING', 'WINNING', 'WISSING', 'ZIGGING', 'ZINCING', 'ZINGING']
+
+Found 1 group of 91 topologically equivalent English n-grams, for a total of 91 / 172820 n-grams, i.e. 0.05% of all English n-grams.
+The group is: ['CAIN', 'CALL', 'CALM', 'CAMS', 'CANS', 'CAUL', 'CAWS', 'CRIS', 'CRUS', 'GAGS', 'GAIN', 'GALL', 'GALS', 'GAMS', 'GANG', 'GAUM', 'GAUN', 'GRIG', 'GRIM', 'GRIN', 'GRUM', 'IRIS', 'JAGG', 'JAGS', 'JAIL', 'JAMS', 'JAWS', 'JAZZ', 'LACS', 'LAGS', 'LAIC', 'LAIN', 'LALL', 'LAMS', 'LANG', 'LASS', 'LAVS', 'LAWN', 'LAWS', 'MACS', 'MAGI', 'MAGS', 'MAIL', 'MAIM', 'MAIN', 'MALL', 'MALM', 'MANS', 'MASS', 'MAUL', 'MAUN', 'MAWN', 'MAWS', 'NAGS', 'NAIL', 'NANS', 'NAZI', 'SACS', 'SAGS', 'SAIL', 'SAIN', 'SALL', 'SALS', 'SANG', 'SANS', 'SASS', 'SAUL', 'SAWN', 'SAWS', 'SRIS', 'URIC', 'URNS', 'URUS', 'VACS', 'VAGI', 'VAIL', 'VAIN', 'VANG', 'VANS', 'VAUS', 'VAVS', 'VAWS', 'WAGS', 'WAIL', 'WAIN', 'WALL', 'WANS', 'WAUL', 'WAWL', 'WAWS', 'ZAGS']
+
+Found 1 group of 98 topologically equivalent English n-grams, for a total of 98 / 172820 n-grams, i.e. 0.06% of all English n-grams.
+The group is: ['CULL', 'CULM', 'CUSS', 'CWMS', 'GIGS', 'GILL', 'GINS', 'GLIM', 'GLUG', 'GLUM', 'GNUS', 'GULL', 'GULS', 'GUMS', 'GUNS', 'GUVS', 'IGLU', 'ILLS', 'INNS', 'ISMS', 'IWIS', 'JIGS', 'JILL', 'JINN', 'JINS', 'JISM', 'JUGS', 'JUJU', 'LIMN', 'LING', 'LINN', 'LINS', 'LUGS', 'LULL', 'LULU', 'LUMS', 'LUNG', 'LUVS', 'MIGG', 'MIGS', 'MILL', 'MILS', 'MINI', 'MISS', 'MUGG', 'MUGS', 'MULL', 'MUMM', 'MUMS', 'MUMU', 'MUNI', 'MUNS', 'MUSS', 'NILL', 'NILS', 'NIMS', 'NISI', 'NULL', 'NUNS', 'SCUM', 'SICS', 'SIGN', 'SILL', 'SIMS', 'SING', 'SINS', 'SLIM', 'SLUG', 'SLUM', 'SMUG', 'SNUG', 'SULU', 'SUMS', 'SUNG', 'SUNN', 'SUNS', 'SUSS', 'SWIG', 'SWIM', 'SWUM', 'ULUS', 'UNCI', 'VIGS', 'VILL', 'VIMS', 'VUGG', 'VUGS', 'WIGS', 'WILL', 'WING', 'WINS', 'WISS', 'WUSS', 'ZIGS', 'ZILL', 'ZINC', 'ZING', 'ZINS']
+
+The total run time was 0.14 seconds.
