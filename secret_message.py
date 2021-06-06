@@ -29,7 +29,7 @@ assert(len(letters2sets) == 26)
 
 
 def decipher(coded_word):
-    print(f'Decyphering {coded_word}...')
+    print(f'Deciphering {coded_word}...')
     print('--- Start of list of possible words ---')
     for word in itertools.product(*[letters2sets[le] for le in coded_word.upper()]):
         word = ''.join(word)
